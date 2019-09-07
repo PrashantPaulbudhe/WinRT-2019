@@ -1,0 +1,4 @@
+﻿  MyMath_Def.cpp
+i:\myvisualstudio2017projects\01-win32\01-window\window\ide\01-dlldefinationmodule(.def)\mymath_def\mymath_def.cpp(7): warning C4007: 'DllMain': must be '__stdcall'
+     Creating library I:\MyVisualStudio2017Projects\01-Win32\01-Window\Window\IDE\01-DLLDefinationModule(.def)\MyMath_Def\Debug\MyMath_Def.lib and object I:\MyVisualStudio2017Projects\01-Win32\01-Window\Window\IDE\01-DLLDefinationModule(.def)\MyMath_Def\Debug\MyMath_Def.exp
+  MyMath_Def.vcxproj -> I:\MyVisualStudio2017Projects\01-Win32\01-Window\Window\IDE\01-DLLDefinationModule(.def)\MyMath_Def\Debug\MyMath_Def.dll
